@@ -3,7 +3,7 @@ name: Check links
 on:
   push:
     branches:
-      - ci-link
+      - ci/link
 
 jobs:
   check-links:
